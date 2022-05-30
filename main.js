@@ -7,7 +7,7 @@ function f(x) {
     } else if (x == "최예원 바보") {
          return  "맞지"
     } else {
-        return "0이상값 입력하라고 병신아"
+        return "0 이상인 값을 입력해주세요"
     }
 }
 function onSubmit() {
