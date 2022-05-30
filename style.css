@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+#result{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+}
+.input {
+    font-size: 30px;
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+}
+
+.submit {
+    font-size: 35px;
+    font-family: 'Jua', sans-serif;
+    background-color: rgb(3, 136, 252);
+    width: 150px;
+    height: 52.5px;
+    border: 1px solid;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.textbox {
+    font-family: 'Jua', sans-serif;
+    width: 225px;
+    height: 52.5px;
+    border: 1px solid;
+    border-radius: 30px;
+    margin-top: 10px;
+}
